@@ -2,7 +2,9 @@
 ==============================
 
 This is a template for new Data Science projects. 
+
 Before publishing a new project, unnecessary folders and files should be deleted in order to enhance the clarity of the repository.  
+
 
 Project Organization
 ------------
