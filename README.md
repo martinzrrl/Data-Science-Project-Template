@@ -1,7 +1,7 @@
 00 Data Science Folder Template
 ==============================
 
-Description
+This is a template for new Data Science projects.
 
 Project Organization
 ------------
